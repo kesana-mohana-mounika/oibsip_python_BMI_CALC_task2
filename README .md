@@ -74,7 +74,7 @@ Watch the demo video of this project here:
 ## 🙏 Acknowledgement
 
 I would like to thank *Oasis Infobyte* for providing me the opportunity to work on this project as a part of the internship program.  
-Special thanks to the mentors and the community for their guidance and support.
+
 
 ---
 
