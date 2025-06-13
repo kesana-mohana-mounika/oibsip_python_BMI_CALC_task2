@@ -56,9 +56,8 @@
 ## 🎥 Demo via LinkedIn Video
 
 Watch the demo video of this project here:  
-🔗 [LinkedIn Project Demo](https://www.linkedin.com/YOUR-VIDEO-LINK)
+🔗 [LinkedIn Project Demo](https://www.linkedin.com/posts/kesana-mohana-mounika-548114344_python-tkinter-bmicalculator-activity-7339153129063538688-jxpP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFYoewgBCwKr-tM3UK4tbA8AS98p6O7bcOE)
 
-(Replace the above link with your actual LinkedIn video link)
 
 ---
 
@@ -75,6 +74,6 @@ Watch the demo video of this project here:
 ## 🙏 Acknowledgement
 
 I would like to thank *Oasis Infobyte* for providing me the opportunity to work on this project as a part of the internship program.  
-Special thanks to the mentors and the community for their guidance and support.
+
 
 ---
