@@ -20,9 +20,6 @@ This is a **Graphical BMI Calculator** built using Python's `Tkinter` library. I
 
 ---
 
-## 📸 Screenshot
-
-> *(Insert screenshot of your GUI here)*
 
 ---
 
@@ -63,28 +60,8 @@ Check out the working demo on LinkedIn:
 
 ---
 
-## 👩‍💻 Author
 
-**Kesana Mohana Mounika**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 
 ---
 
-## 📂 Project Structure
 
-```
-├── BMI_Calculator.ipynb          # Jupyter notebook (if applicable)
-├── main.py                       # Python script (GUI code)
-├── bmi_history.csv               # Stored BMI data
-├── README.md                     # Project description
-```
-
----
-
-## 📃 License
-
-This project is part of the **OIBSIP Internship Task 2** – BMI Calculator with GUI and History.
-
----
-
-*Feel free to star ⭐ the repo if you found it helpful!*
