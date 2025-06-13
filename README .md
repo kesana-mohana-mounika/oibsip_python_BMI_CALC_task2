@@ -58,7 +58,6 @@
 Watch the demo video of this project here:  
 🔗 [LinkedIn Project Demo](https://www.linkedin.com/YOUR-VIDEO-LINK)
 
-(Replace the above link with your actual LinkedIn video link)
 
 ---
 
